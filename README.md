@@ -13,7 +13,15 @@ cd laragon/www/some_project/
 ```
 vim README.md
 ```
+## close the vim editor
+*you probably won't be able to close the vim editor if it is your first time, we all have been there.*
 
+1. click on the colon `:`
+2. write `:q!`
+
+`:q!` => close without saving any changes.
+
+`:wq` => close after saving all changes.
 
 
 
