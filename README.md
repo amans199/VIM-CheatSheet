@@ -119,3 +119,34 @@ and so on...
 ---
 
 
+## Control the text
+
+`dd` => will delete the current line.
+
+`5dd` => will delete the 5 lines starting from the current one.
+
+`u` => undo.
+
+`ctrl +r` => redo.
+
+`Shift + R` => replace the current letter.
+
+`yy` => copy the line.
+
+`p` => paste below.
+
+`P` => paste above.
+
+`Shift + v` => Enter the Visual Mode.
+
+*In the Visual Mode => you can **Select** text by moving the cursor using the commands we have already mentioned.*
+
+`o` => start typing in a new line ( this will enable **INSERT** Mode ).
+
+
+## I am Still Working on this CheatSheet :smile: , and you feel free to contribute :blue_heart:
+<br>
+---
+<br>
+
+Created with Love by [Ahmed Mansour](https://twitter.com/amans199)
