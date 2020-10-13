@@ -111,7 +111,7 @@ considering the pen as an cursor :
 and so on...
 
 ---
-* you will see the difference between { and H , } and L if there is more than one block in the screen
+* you will see the difference between `{` and `H` ,`}` and `L` if there is more than one block in the screen
 
 ---
 * `H` and `L` have control only over the screen you see. not the whole document.
@@ -143,6 +143,7 @@ and so on...
 
 `o` => start typing in a new line ( this will enable **INSERT** Mode ).
 
+`v` then `h` , `j` ,  `k` or `l` => select text
 
 ## I am Still Working on this CheatSheet :smile: , and you feel free to contribute :blue_heart:
 <br>
